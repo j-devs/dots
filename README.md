@@ -5,7 +5,7 @@ I created these to help speed up the setup process of a new (or newly formatted)
 
 **Install:**
 ```
-git clone https://github.com/j-devs/dots.git ~/projects/dotfiles && cd /projects/dotfiles && source install.sh
+git clone https://github.com/j-devs/dots.git ~/projects/dotfiles && cd ~/projects/dotfiles && source install.sh
 ```
 
 **ToDo:**
