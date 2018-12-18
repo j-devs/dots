@@ -1,5 +1,5 @@
 # Dotfiles
-### These are my dotfiles. There are many like them but these one's are mine...
+### These are my dotfiles. There are many like them but these ones are mine...
 
 I created these to help speed up the setup process of a new (or newly formatted) computer.
 
